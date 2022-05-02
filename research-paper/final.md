@@ -1,4 +1,4 @@
-# Predciting order cancellations on Amazon
+# Predciting order returns on Amazon
 Amazon is one of the most rewarding platforms for sellers worldwide. But one of the downsides of selling on Amazon is that sellers have to comply with easy return policy which can sometimes be detrimental the seller. Knowing beforehand if the product would be returned or not would be very helpful for the sellers.
 
 ## Outline
